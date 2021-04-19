@@ -1,0 +1,4 @@
+echo "hi jenkins"
+date
+cal
+echo "bye jenkins"
